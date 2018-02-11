@@ -1,0 +1,401 @@
+HT:Den Bosch:'s-Hertogenbosch:'s-Hertogenbosch
+HTO:Dn Bosch O:Hertogenb. Oost:'s-Hertogenbosch Oost
+HDE:'t Harde:'t Harde:'t Harde
+ATN:Aalten:Aalten:Aalten
+AC:Abcoude:Abcoude:Abcoude
+AKM:Akkrum:Akkrum:Akkrum
+AMR:Alkmaar:Alkmaar:Alkmaar
+AMRN:Alkmaar N:Alkmaar Noord:Alkmaar Noord
+AML:Almelo:Almelo:Almelo
+AMRI:de Riet:Almelo de Riet:Almelo de Riet
+ALMB:Buiten:Almere Buiten:Almere Buiten
+ALM:Almere C:Almere C.:Almere Centrum
+ALMM:Muziekwijk:Muziekwijk:Almere Muziekwijk
+ALMO:Oostvaard:Oostvaarders:Almere Oostvaarders
+ALMP:Parkwijk:Almere Parkwijk:Almere Parkwijk
+AMPO:Almere Prt:Almere Poort:Almere Poort
+APN:Alphen:Alphen a/d Rijn:Alphen a/d Rijn
+AMF:Amersfoort:Amersfoort:Amersfoort
+AMFS:Schothorst:Schothorst:Amersfoort Schothorst
+AVAT:Vathorst:Vathorst:Amersfoort Vathorst
+ASA:Amstel:Amsterdam Amstel:Amsterdam Amstel
+ASB:Bijlmer A:Bijlmer ArenA:Amsterdam Bijlmer ArenA
+ASD:Amsterdam:Amsterdam C.:Amsterdam Centraal
+ASHD:Holendrcht:Holendrecht:Amsterdam Holendrecht
+ASDL:Lelylaan:Lelylaan:Amsterdam Lelylaan
+ASDM:Muiderprt:Muiderpoort:Amsterdam Muiderpoort
+RAI:RAI:Amsterdam RAI:Amsterdam RAI
+ASSP:Scienceprk:Science Park:Amsterdam Science Park
+ASS:Sloterdijk:Sloterdijk:Amsterdam Sloterdijk
+VMW:vd Madeweg:Van der Madeweg:Amsterdam Van der Madeweg
+ASDZ:Amsterdm Z:Amsterdam Zuid:Amsterdam Zuid
+ANA:Anna Paulo:Anna Paulowna:Anna Paulowna
+APD:Apeldoorn:Apeldoorn:Apeldoorn
+APDM:De Maten:De Maten:Apeldoorn De Maten
+APDO:Osseveld:Osseveld:Apeldoorn Osseveld
+APG:Appingedam:Appingedam:Appingedam
+AKL:Arkel:Arkel:Arkel
+ARN:Arnemuiden:Arnemuiden:Arnemuiden
+AH:Arnhem C:Arnhem C.:Arnhem Centraal
+AHPR:Presikhaaf:Presikhaaf:Arnhem Presikhaaf
+AHP:Velperprt:Velperpoort:Arnhem Velperpoort
+AHZ:Arnhem Z:Arnhem Zuid:Arnhem Zuid
+ASN:Assen:Assen:Assen
+BRN:Baarn:Baarn:Baarn
+NSCH:Nweschans:Bad Nieuweschans:Bad Nieuweschans
+BF:Baflo:Baflo:Baflo
+BRD:Barendrcht:Barendrecht:Barendrecht
+BNC:Barnevld C:Barneveld C.:Barneveld Centrum
+BNN:Barnevld N:Barneveld Noord:Barneveld Noord
+BNZ:Barnevld Z:Barneveld Zuid:Barneveld Zuid
+BDM:Bedum:Bedum:Bedum
+BK:Beek-E:Beek-Elsloo:Beek-Elsloo
+BSD:Beesd:Beesd:Beesd
+BL:Beilen:Beilen:Beilen
+BGN:Bergen opZ:Bergen op Zoom:Bergen op Zoom
+BET:Best:Best:Best
+BV:Beverwijk:Beverwijk:Beverwijk
+BHV:Bilthoven:Bilthoven:Bilthoven
+BR:Blerick:Blerick:Blerick
+BLL:Bloemendl:Bloemendaal:Bloemendaal
+BDG:Bodegraven:Bodegraven:Bodegraven
+BN:Borne:Borne:Borne
+BSK:Boskoop:Boskoop:Boskoop
+BHDV:Boven-Har:Boven-Hardinxv.:Boven-Hardinxveld
+BKF:Bovenk Flo:Bovenkarspel Fl.:Bovenkarspel Flora
+BKG:Bovenk-Gr:Bovenkarspel-Gr.:Bovenkarspel-Grootebroek
+BMR:Boxmeer:Boxmeer:Boxmeer
+BTL:Boxtel:Boxtel:Boxtel
+BD:Breda:Breda:Breda
+BDPB:Prinsenbk:Prinsenbeek:Breda-Prinsenbeek
+BKL:Breukelen:Breukelen:Breukelen
+BMN:Brummen:Brummen:Brummen
+BP:Buitenpost:Buitenpost:Buitenpost
+BDE:Bunde:Bunde:Bunde
+BNK:Bunnik:Bunnik:Bunnik
+BSMZ:Bussum Z:Bussum Zuid:Bussum Zuid
+CPS:Schollevr:Schollevaar:Capelle Schollevaar
+CAS:Castricum:Castricum:Castricum
+CVM:Chevremont:Chevremont:Chevremont
+CO:Coevorden:Coevorden:Coevorden
+CK:Cuijk:Cuijk:Cuijk
+CL:Culemborg:Culemborg:Culemborg
+DA:Daarlervn:Daarlerveen:Daarlerveen
+DLN:Dalen:Dalen:Dalen
+DL:Dalfsen:Dalfsen:Dalfsen
+DVNK:De Vink:De Vink:De Vink
+DWE:Westereen:De Westereen:De Westereen
+DEI:Deinum:Deinum:Deinum
+DDN:Delden:Delden:Delden
+DT:Delft:Delft:Delft
+DTZ:Delft Z:Delft Zuid:Delft Zuid
+DZ:Delfzijl:Delfzijl:Delfzijl
+DZW:Delfzijl W:Delfzijl West:Delfzijl West
+DLD:Den Dolder:Den Dolder:Den Dolder
+GVC:Den Haag C:Den Haag C.:Den Haag Centraal
+GV:Dn Haag HS:Den Haag HS:Den Haag HS
+LAA:Laan v NOI:Laan v NOI:Den Haag Laan v NOI
+GVM:Mariahoeve:Mariahoeve:Den Haag Mariahoeve
+GVMW:Moerwijk:Moerwijk:Den Haag Moerwijk
+YPB:Ypenburg:Ypenburg:Den Haag Ypenburg
+HDR:Den Helder:Den Helder:Den Helder
+HDRZ:Dn Heldr Z:Den Helder Zuid:Den Helder Zuid
+DN:Deurne:Deurne:Deurne
+DV:Deventer:Deventer:Deventer
+DVC:Colmschate:Colmschate:Deventer Colmschate
+DID:Didam:Didam:Didam
+DMN:Diemen:Diemen:Diemen
+DMNZ:Diemen Z:Diemen Zuid:Diemen Zuid
+DR:Dieren:Dieren:Dieren
+DTC:Doetinchem:Doetinchem:Doetinchem
+DTCH:De Huet:De Huet:Doetinchem De Huet
+DDR:Dordrecht:Dordrecht:Dordrecht
+DDRS:Stadspldrs:Stadspolders:Dordrecht Stadspolders
+DDZD:Dordrcht Z:Dordrecht Zuid:Dordrecht Zuid
+DB:Driebergen:Driebergen-Zeist:Driebergen-Zeist
+DRH:Driehuis:Driehuis:Driehuis
+DRP:Dronryp:Dronryp:Dronryp
+DRON:Dronten:Dronten:Dronten
+DVN:Duiven:Duiven:Duiven
+DVD:Duivendrt:Duivendrecht:Duivendrecht
+EC:Echt:Echt:Echt
+EDC:Ede C:Ede C.:Ede Centrum
+ED:Ede-Wag:Ede-Wageningen:Ede-Wageningen
+EDN:Eijsden:Eijsden:Eijsden
+EHV:Eindhoven:Eindhoven:Eindhoven
+EHS:Strijp-S:Strijp-S:Eindhoven Strijp-S
+EST:Elst:Elst:Elst
+EMN:Emmen:Emmen:Emmen
+EMNZ:Emmen Z:Emmen Zuid:Emmen Zuid
+EKZ:Enkhuizen:Enkhuizen:Enkhuizen
+ES:Enschede:Enschede:Enschede
+ESE:Eschmarke:De Eschmarke:Enschede De Eschmarke
+ESK:Kennispark:Kennispark:Enschede Kennispark
+EML:Ermelo:Ermelo:Ermelo
+ETN:Etten-Leur:Etten-Leur:Etten-Leur
+EGH:Eygelshov:Eygelshoven:Eygelshoven
+EGHM:Eygelsh M:Eygelshoven Mrkt:Eygelshoven Markt
+WTM:Eys-Witt:Eys-Wittem:Eys-Wittem
+FWD:Feanwalden:Feanwalden:Feanwalden
+FN:Franeker:Franeker:Franeker
+GDR:Gaanderen:Gaanderen:Gaanderen
+GDM:Geldermlsn:Geldermalsen:Geldermalsen
+GP:Geldrop:Geldrop:Geldrop
+GLN:Geleen O:Geleen Oost:Geleen Oost
+LUT:Geleen-Lut:Geleen-Lutterade:Geleen-Lutterade
+GZ:Gilze-Rij:Gilze-Rijen:Gilze-Rijen
+GBR:Glanerbrug:Glanerbrug:Glanerbrug
+GS:Goes:Goes:Goes
+GO:Goor:Goor:Goor
+GR:Gorinchem:Gorinchem:Gorinchem
+GD:Gouda:Gouda:Gouda
+GDG:Goverwelle:Gouda Goverwelle:Gouda Goverwelle
+GBG:Gramsbergn:Gramsbergen:Gramsbergen
+GK:Grijpskerk:Grijpskerk:Grijpskerk
+GN:Groningen:Groningen:Groningen
+GERP:Europapark:Europapark:Groningen Europapark
+GNN:Groningn N:Groningen Noord:Groningen Noord
+GW:Grou-Jirns:Grou-Jirnsum:Grou-Jirnsum
+WIJ:Gulpen-W:Gulpen-Wijlre:Gulpen-Wijlre
+HLM:Haarlem:Haarlem:Haarlem
+HLMS:Spaarnwde:Spaarnwoude:Haarlem Spaarnwoude
+HWZB:Halfweg-Zw:Halfweg-Zwanenb.:Halfweg-Zwanenburg
+HDB:Hardenberg:Hardenberg:Hardenberg
+HD:Harderwijk:Harderwijk:Harderwijk
+HBZM:Blauwe Zm:Blauwe Zoom:Hardinxveld Blauwe Zoom
+GND:Hardinxvld:Hardinxveld-G.:Hardinxveld-Giessendam
+HRN:Haren:Haren:Haren
+HRNOVT:Haren Tran:Haren OV Transf.:Haren OV Transferium
+HLG:Harlingen:Harlingen:Harlingen
+HLGH:Harl Haven:Harlingen Haven:Harlingen Haven
+HK:Heemskerk:Heemskerk:Heemskerk
+HAD:Heemstede:Heemstede-A.:Heemstede-Aerdenhout
+HR:Heerenveen:Heerenveen:Heerenveen
+HRY:IJsstadion:IJsstadion:Heerenveen IJsstadion
+HWD:Heerhugow:Heerhugowaard:Heerhugowaard
+HRL:Heerlen:Heerlen:Heerlen
+HRLK:De Kissel:Hrl De Kissel:Heerlen De Kissel
+HRLW:Heerlen W:Hrl Woonblvd:Heerlen Woonboulevard
+HZE:Heeze:Heeze:Heeze
+HLO:Heiloo:Heiloo:Heiloo
+HNO:Heino:Heino:Heino
+HM:Helmond:Helmond:Helmond
+HMH:'t Hout:Helmond 't Hout:Helmond 't Hout
+HMBV:Brandevrt:Brandevoort:Helmond Brandevoort
+HMBH:Brouwhuis:Brouwhuis:Helmond Brouwhuis
+HMN:Hemmen-D:Hemmen-Dodewaard:Hemmen-Dodewaard
+HGL:Hengelo:Hengelo:Hengelo
+HGLG:Gezondhprk:Hengelo Gezondh.:Hengelo Gezondheidspark
+HGLO:Hengelo O:Hengelo Oost:Hengelo Oost
+HIL:Hillegom:Hillegom:Hillegom
+HVS:Hilversum:Hilversum:Hilversum
+HVSM:Media Park:Media Park:Hilversum Media Park
+HVSP:Sportpark:Sportpark:Hilversum Sportpark
+HNP:Hindeloopn:Hindeloopen:Hindeloopen
+HB:Hoensbroek:Hoensbroek:Hoensbroek
+HVL:Hoevelaken:Hoevelaken:Hoevelaken
+HOR:Hol Rading:Holl. Rading:Hollandsche Rading
+HON:Holten:Holten:Holten
+HFD:Hoofddorp:Hoofddorp:Hoofddorp
+HGV:Hoogeveen:Hoogeveen:Hoogeveen
+HGZ:Hoogezand:Hoogezand-Sap.:Hoogezand-Sappemeer
+HKS:Hoogkrspl:Hoogkarspel:Hoogkarspel
+HN:Hoorn:Hoorn:Hoorn
+HNK:Hoorn Kers:Kersenboogerd:Hoorn Kersenboogerd
+HRT:Horst-Sev:Horst-Sevenum:Horst-Sevenum
+HTN:Houten:Houten:Houten
+HTNC:Houten Cas:Houten Castellum:Houten Castellum
+SGL:Houthem-St:Houthem-St Gerl.:Houthem-St. Gerlach
+HDG:Hurdegaryp:Hurdegaryp:Hurdegaryp
+IJT:IJlst:IJlst:IJlst
+KPN:Kampen:Kampen:Kampen
+KPNZ:Kampen Z:Kampen Zuid:Kampen Zuid
+BZL:Kapelle-Bi:Kapelle-Biezel.:Kapelle-Biezelinge
+KRD:Kerkrade C:Kerkrade C.:Kerkrade Centrum
+KTR:Kesteren:Kesteren:Kesteren
+KBK:Klarenbk:Klarenbeek:Klarenbeek
+KMR:Klimmen-R:Klimmen-Ransdaal:Klimmen-Ransdaal
+KZ:Koog Zaan:Koog a.d. Zaan:Koog aan de Zaan
+KMW:Koudum-M:Koudum-Molkwerum:Koudum-Molkwerum
+KBD:Krabbendke:Krabbendijke:Krabbendijke
+KMA:Krommenie:Krommenie-Ass.:Krommenie-Assendelft
+KW:Kropswolde:Kropswolde:Kropswolde
+KRG:Kruiningen:Kruiningen-Y.:Kruiningen-Yerseke
+ZLW:Lage Zwalu:Lage Zwaluwe:Lage Zwaluwe
+LG:Landgraaf:Landgraaf:Landgraaf
+LDM:Leerdam:Leerdam:Leerdam
+LW:Leeuwarden:Leeuwarden:Leeuwarden
+ADH:Achter d.H:Achter de Hoven:Leeuwarden Achter d Hoven
+LWC:Camminghab:Camminghaburen:Leeuwarden Camminghaburen
+LEDN:Leiden C:Leiden C.:Leiden Centraal
+LDL:Leiden Lam:Lammenschans:Leiden Lammenschans
+LLS:Lelystad C:Lelystad C.:Lelystad Centrum
+LTV:Lichtenv-G:Lichtenvoorde-G.:Lichtenvoorde-Groenlo
+LC:Lochem:Lochem:Lochem
+LP:Loppersum:Loppersum:Loppersum
+LTN:Lunteren:Lunteren:Lunteren
+MZ:Maarheeze:Maarheeze:Maarheeze
+MRN:Maarn:Maarn:Maarn
+MAS:Maarssen:Maarssen:Maarssen
+MT:Maastricht:Maastricht:Maastricht
+MTN:Maastr N:Maastricht Noord:Maastricht Noord
+MTR:Maastr Rw:Maastricht Randw:Maastricht Randwyck
+MG:Mantgum:Mantgum:Mantgum
+MRB:MariÃ«nberg:MariÃ«nberg:MariÃ«nberg
+MTH:Martenshk:Martenshoek:Martenshoek
+MES:Meerssen:Meerssen:Meerssen
+MP:Meppel:Meppel:Meppel
+MDB:Middelburg:Middelburg:Middelburg
+MMLH:Mook Molen:Molenhoek:Mook Molenhoek
+NDB:Naarden-Bu:Naarden-Bussum:Naarden-Bussum
+NA:Nw A'dam:Nieuw Amsterdam:Nieuw Amsterdam
+NVP:Nw Vennep:Nieuw Vennep:Nieuw Vennep
+NWK:Nieuwerkrk:Nieuwerkerk:Nieuwerkerk a/d IJssel
+NKK:Nijkerk:Nijkerk:Nijkerk
+NM:Nijmegen:Nijmegen:Nijmegen
+NMD:Dukenburg:Dukenburg:Nijmegen Dukenburg
+NMGO:Goffert:Nijmegen Goffert:Nijmegen Goffert
+NMH:Heyendaal:Nm Heyendaal:Nijmegen Heyendaal
+NML:Lent:Nijmegen Lent:Nijmegen Lent
+NVD:Nijverdal:Nijverdal:Nijverdal
+NS:Nunspeet:Nunspeet:Nunspeet
+NH:Nuth:Nuth:Nuth
+OBD:Obdam:Obdam:Obdam
+OT:Oisterwijk:Oisterwijk:Oisterwijk
+ODZ:Oldenzaal:Oldenzaal:Oldenzaal
+OST:Olst:Olst:Olst
+OMN:Ommen:Ommen:Ommen
+OTB:Oosterbeek:Oosterbeek:Oosterbeek
+OP:Opheusden:Opheusden:Opheusden
+O:Oss:Oss:Oss
+OW:Oss W:Oss West:Oss West
+ODB:Oudenbosch:Oudenbosch:Oudenbosch
+OVN:Overveen:Overveen:Overveen
+PMR:Purmerend:Purmerend:Purmerend
+PMO:Overwhere:Overwhere:Purmerend Overwhere
+PMW:Weidevenne:Weidevenne:Purmerend Weidevenne
+PT:Putten:Putten:Putten
+RAT:Raalte:Raalte:Raalte
+RVS:Ravenstein:Ravenstein:Ravenstein
+RV:Reuver:Reuver:Reuver
+RH:Rheden:Rheden:Rheden
+RHN:Rhenen:Rhenen:Rhenen
+RSN:Rijssen:Rijssen:Rijssen
+RSW:Rijswijk:Rijswijk:Rijswijk
+RB:Rilland-Ba:Rilland-Bath:Rilland-Bath
+RM:Roermond:Roermond:Roermond
+RD:Roodeschl:Roodeschool:Roodeschool
+RSD:Roosendaal:Roosendaal:Roosendaal
+RS:Rosmalen:Rosmalen:Rosmalen
+RTA:Alexander:Alexander:Rotterdam Alexander
+RTB:Blaak:Rotterdam Blaak:Rotterdam Blaak
+RTD:Rotterdam:Rotterdam C.:Rotterdam Centraal
+RLB:Lombardije:Lombardijen:Rotterdam Lombardijen
+RTN:Rotterdm N:Rotterdam Noord:Rotterdam Noord
+RTST:R'dam Sta:R'dam Stadion:Rotterdam Stadion
+RTZ:Rotterdm Z:Rotterdam Zuid:Rotterdam Zuid
+RL:Ruurlo:Ruurlo:Ruurlo
+SPTN:Santprt N:Santpoort Noord:Santpoort Noord
+SPTZ:Santprt Z:Santpoort Zuid:Santpoort Zuid
+SPM:Sappemr O:Sappemeer Oost:Sappemeer Oost
+SSH:Sassenheim:Sassenheim:Sassenheim
+SWD:Sauwerd:Sauwerd:Sauwerd
+SGN:Schagen:Schagen:Schagen
+SDA:Scheemda:Scheemda:Scheemda
+SDM:Schiedam C:Schiedam C.:Schiedam Centrum
+SOG:Schin op G:Schin op Geul:Schin op Geul
+SN:Schinnen:Schinnen:Schinnen
+SHL:Schiphol:Schiphol Airport:Schiphol Airport
+SPV:Simpelveld:Simpelveld:Simpelveld
+STD:Sittard:Sittard:Sittard
+SDT:Sliedrecht:Sliedrecht:Sliedrecht
+SDTB:Baanhoek:Baanhoek:Sliedrecht Baanhoek
+SK:Sneek:Sneek:Sneek
+SKND:Sneek N:Sneek Noord:Sneek Noord
+ST:Soest:Soest:Soest
+STZ:Soest Z:Soest Zuid:Soest Zuid
+SD:Soestdijk:Soestdijk:Soestdijk
+SBK:Spaubeek:Spaubeek:Spaubeek
+SPH:Spekholzer:Spekholzerheide:Spekholzerheide
+STV:Stavoren:Stavoren:Stavoren
+STM:Stedum:Stedum:Stedum
+SWK:Steenwijk:Steenwijk:Steenwijk
+SRN:Susteren:Susteren:Susteren
+SM:Swalmen:Swalmen:Swalmen
+TG:Tegelen:Tegelen:Tegelen
+TBG:Terborg:Terborg:Terborg
+TL:Tiel:Tiel:Tiel
+TPSW:Passewaaij:Tiel Passewaaij:Tiel Passewaaij
+TB:Tilburg:Tilburg:Tilburg
+TBR:Reeshof:Tilburg Reeshof:Tilburg Reeshof
+TBU:Tilburg Un:Tilburg Univers.:Tilburg Universiteit
+TWL:Twello:Twello:Twello
+UTG:Uitgeest:Uitgeest:Uitgeest
+UHZ:Uithuizen:Uithuizen:Uithuizen
+UHM:Uithuizerm:Uithuizermeeden:Uithuizermeeden
+UST:Usquert:Usquert:Usquert
+UT:Utrecht C:Utrecht C.:Utrecht Centraal
+UTLR:LeidscheRn:Leidsche Rijn:Utrecht Leidsche Rijn
+UTLN:Lunetten:Utrecht Lunetten:Utrecht Lunetten
+UTM:Maliebaan:Maliebaan:Utrecht Maliebaan
+UTO:Overvecht:Overvecht:Utrecht Overvecht
+UTT:Terwijde:Utrecht Terwijde:Utrecht Terwijde
+UTVR:VaartscheR:Vaartsche Rijn:Utrecht Vaartsche Rijn
+UTZL:Zuilen:Utrecht Zuilen:Utrecht Zuilen
+VK:Valkenburg:Valkenburg:Valkenburg
+VSV:Varsseveld:Varsseveld:Varsseveld
+VDM:Veendam:Veendam:Veendam
+VNDC:Veenendl C:Veenendaal C.:Veenendaal Centrum
+VNDW:Veenendl W:Veenendaal West:Veenendaal West
+KLP:De Klomp:De Klomp:Veenendaal-De Klomp
+VP:Velp:Velp:Velp
+VL:Venlo:Venlo:Venlo
+VRY:Venray:Venray:Venray
+VLB:Vierlingsb:Vierlingsbeek:Vierlingsbeek
+VTN:Vleuten:Vleuten:Vleuten
+VS:Vlissingen:Vlissingen:Vlissingen
+VSS:Souburg:Souburg:Vlissingen Souburg
+VDL:Voerendaal:Voerendaal:Voerendaal
+VB:Voorburg:Voorburg:Voorburg
+VH:Voorhout:Voorhout:Voorhout
+VST:Voorschtn:Voorschoten:Voorschoten
+VEM:Voorst-E:Voorst-Empe:Voorst-Empe
+VD:Vorden:Vorden:Vorden
+VZ:Vriezenvn:Vriezenveen:Vriezenveen
+VHP:Vroomshoop:Vroomshoop:Vroomshoop
+VG:Vught:Vught:Vught
+WAD:Waddinxvn:Waddinxveen:Waddinxveen
+WADN:Waddinxv N:Waddinxveen N.:Waddinxveen Noord
+WFM:Warffum:Warffum:Warffum
+WT:Weert:Weert:Weert
+WP:Weesp:Weesp:Weesp
+WL:Wehl:Wehl:Wehl
+WTV:Westervrt:Westervoort:Westervoort
+WZ:Wezep:Wezep:Wezep
+WDN:Wierden:Wierden:Wierden
+WC:Wijchen:Wijchen:Wijchen
+WH:Wijhe:Wijhe:Wijhe
+WS:Winschoten:Winschoten:Winschoten
+WSM:Winsum:Winsum:Winsum
+WW:Winterswk:Winterswijk:Winterswijk
+WWW:Wintersw W:Winterswijk West:Winterswijk West
+WD:Woerden:Woerden:Woerden
+WF:Wolfheze:Wolfheze:Wolfheze
+WV:Wolvega:Wolvega:Wolvega
+WK:Workum:Workum:Workum
+WM:Wormerveer:Wormerveer:Wormerveer
+ZD:Zaandam:Zaandam:Zaandam
+ZDK:Kogerveld:Kogerveld:Zaandam Kogerveld
+ZZS:Zaanse S.:Zaanse Schans:Zaandijk Zaanse Schans
+ZBM:Zaltbommel:Zaltbommel:Zaltbommel
+ZVT:Zandvoort:Zandvoort a Zee:Zandvoort aan Zee
+ZA:Zetten-And:Zetten-Andelst:Zetten-Andelst
+ZV:Zevenaar:Zevenaar:Zevenaar
+ZVB:Zevenbergn:Zevenbergen:Zevenbergen
+ZTM:Zoetermeer:Zoetermeer:Zoetermeer
+ZTMO:Zoetermr O:Zoetermeer Oost:Zoetermeer Oost
+ZB:Zuidbroek:Zuidbroek:Zuidbroek
+ZH:Zuidhorn:Zuidhorn:Zuidhorn
+ZP:Zutphen:Zutphen:Zutphen
+ZWD:Zwijndrcht:Zwijndrecht:Zwijndrecht
+ZL:Zwolle:Zwolle:Zwolle
